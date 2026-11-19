@@ -1,0 +1,7 @@
+Documentação da Classe e dos Métodos
+A documentação em formato Javadoc já foi aplicada diretamente na classe Calculadora no Exercício 1,
+descrevendo o propósito da classe,  comportamento de cada método e os parametros, retorno e exceção
+na divisão por 0.
+
+Sim, eu conseguiria entender o código sem documentá-lo pois os nomes das classes e dos métodos são
+autoexplicativod, curtos e seguem o domínio do problema.
